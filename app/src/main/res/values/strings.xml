@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Transalte Now</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="menu_history">Hisotry</string>
+    <string name="touch_to_write">Tap to enter</string>
+    <string name="delete_all">Delete all</string>
+    <string name="yandex_link">
+        <a href="http://translate.yandex.ru/">Переведено сервисом «Яндекс.Переводчик»</a></string>
+    <string name="offline">Network issues :(</string>
+    <string name="update">Update</string>
+
+</resources>
